@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+123412341234123412341234123412341234123412341234new file in remote master
+=======
 ABCDnew file in remote master
+>>>>>>> branch1
 editing the new file to check if fetch pulls the file
 
 editing in local file to view conflicts
