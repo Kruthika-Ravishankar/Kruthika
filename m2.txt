@@ -1,1 +1,2 @@
 new file in remote master
+editing the new file to check if fetch pulls the file
